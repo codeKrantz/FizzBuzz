@@ -2,6 +2,7 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 Sample output:
 
+```
 1
 2
 Fizz
@@ -22,4 +23,5 @@ FizzBuzz
 Fizz
 19
 Buzz
+```
 ... etc up to 100
